@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **T-Systems India Pvt Ltd**
 
-- 💬 Ask me about **MySQL, Python, BI Tools, LLM**
+- 💬 Ask me about **MySQL, Python, BI Tools, LLM, GenAI**
 
 - 📫 How to reach me **harshalravindrapathak@gmail.com**
 
